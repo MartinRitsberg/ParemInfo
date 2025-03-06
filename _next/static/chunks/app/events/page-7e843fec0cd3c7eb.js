@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[634],{6578:(e,s,r)=>{Promise.resolve().then(r.bind(r,8094))},8094:(e,s,r)=>{"use strict";r.r(s),r.d(s,{default:()=>l});var a=r(5155);let l=()=>(0,a.jsx)("div",{children:"EventsPage"})}},e=>{var s=s=>e(e.s=s);e.O(0,[441,517,358],()=>s(6578)),_N_E=e.O()}]);
