@@ -1,0 +1,27 @@
+[
+    {
+      "ravimi_jaak_id": 1,
+      "kliendi_id": 1,
+      "kuupäev": "2025-03-25",
+      "ravimi_id": 1,
+      "ravimi_nimetus": "Paratsetamool",
+      "arvele_võetud_kogus": 20,
+      "arvele_tooja_allkiri": "K. Tamm",
+      "maha_kandmise_kogus": 5,
+      "väljastaja_allkiri": "M. Kallas",
+      "jääk_ravimikarbis": 15
+    },
+    {
+      "ravimi_jaak_id": 2,
+      "kliendi_id": 2,
+      "kuupäev": "2025-03-27",
+      "ravimi_id": 2,
+      "ravimi_nimetus": "Ibuprofeen",
+      "arvele_võetud_kogus": 30,
+      "arvele_tooja_allkiri": "K. Tamm",
+      "maha_kandmise_kogus": 10,
+      "väljastaja_allkiri": "M. Kallas",
+      "jääk_ravimikarbis": 20
+    }
+  ]
+  

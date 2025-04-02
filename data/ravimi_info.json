@@ -1,0 +1,25 @@
+[
+    {
+      "ravimi_info_id": 1,
+      "ravimiskeem_id": 1,
+      "nimetus": "Paratsetamool",
+      "hommik": "500mg",
+      "lõuna": "–",
+      "õhtu": "500mg",
+      "öö": "–",
+      "vajadusel": "Jah",
+      "lisateave": "Võib võtta vajadusel palaviku korral"
+    },
+    {
+      "ravimi_info_id": 2,
+      "ravimiskeem_id": 2,
+      "nimetus": "Ibuprofeen",
+      "hommik": "200mg",
+      "lõuna": "200mg",
+      "õhtu": "200mg",
+      "öö": "–",
+      "vajadusel": "Ei",
+      "lisateave": ""
+    }
+  ]
+  
