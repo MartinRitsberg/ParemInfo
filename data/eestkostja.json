@@ -1,0 +1,19 @@
+[
+    {
+      "eestkostja_id": 1,
+      "kliendi_id": 1,
+      "nimi": "Anneli Maasik",
+      "telefon": "51234567",
+      "email": "anneli.maasik@test.com",
+      "lisainfo": "Ema"
+    },
+    {
+      "eestkostja_id": 2,
+      "kliendi_id": 2,
+      "nimi": "Jaanus Kask",
+      "telefon": "53456789",
+      "email": "jaanus.kask@test.com",
+      "lisainfo": "Vanem vend"
+    }
+  ]
+  
