@@ -13,11 +13,22 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <body>
         <AppProvider>
-        <Header />
-        <main>
-          <Sidebar />
-          {children}
-        </main>
+          <div
+            style={{
+              display: "grid",
+              gridTemplateAreas: `
+                "header header"
+                "sidebar main"
+              `,
+              gridTemplateColumns: "200px 1fr",
+              gridTemplateRows: "auto 1fr",
+              height: "100vh",
+            }}
+          >
+            <Header style={{ gridArea: "header" }} />
+            <Sidebar style={{ gridArea: "sidebar" }} />
+            <main style={{ gridArea: "main", padding: "1rem" }}>{children}</main>
+          </div>
         </AppProvider>
       </body>
     </html>
