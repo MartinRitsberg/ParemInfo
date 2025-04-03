@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[974],{4260:(e,r,s)=>{Promise.resolve().then(s.bind(s,6482))},6482:(e,r,s)=>{"use strict";s.r(r),s.d(r,{default:()=>a});var n=s(5155);function a(){return(0,n.jsx)("h1",{children:"Ulevaade"})}}},e=>{var r=r=>e(e.s=r);e.O(0,[441,517,358],()=>r(4260)),_N_E=e.O()}]);
